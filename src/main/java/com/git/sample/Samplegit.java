@@ -1,16 +1,31 @@
 package com.git.sample;
 
 public class Samplegit {
-	private void project1() {
+	public void project1() {
 		System.out.println("one");
 
 	}
-	private void project2() {
+
+	public void project2() {
 		System.out.println("two");
 
 	}
-	private void project3() {
+
+	public void project3() {
 		System.out.println("three");
+	}
+
+	public void project4() {
+		System.out.println("four");
+
+	}
+
+	public void project5() {
+		System.out.println("five");
+
+	}
+	public void Appium() {
+		System.out.println("Appium");
 
 	}
 }
